@@ -15,4 +15,5 @@ RUN apt-get update && apt-get install -y \
     ###
     org-mode \
     graphviz \
+    plantuml \
     raptor-utils
