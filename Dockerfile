@@ -12,6 +12,7 @@ RUN apt-get update && apt-get install -y \
     texlive-fonts-extra \
     texlive-lang-english \
     texlive-lang-european \
+    texlive-pictures \
     ###
     org-mode \
     graphviz \
